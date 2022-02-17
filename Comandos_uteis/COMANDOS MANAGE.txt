@@ -1,0 +1,6 @@
+COMANDOS MANAGE.PY 
+(manage.py help)
+
+	1 - para iniciar o servidor "python manage.py runserver"
+	2 - para iniciar um app "python manage.py startapp"
+	3 - adicionar arquivos staticos "python manage.py collectstatic"
