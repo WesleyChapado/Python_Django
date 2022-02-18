@@ -3,3 +3,4 @@ INCLUIR POSTGRESQL
 
 	1 - no terminal do pycharm digite "pip install psycopg2"
 	2 - no terminal do pycharm digite "pip install psycopg2-binary"
+	3 - 
